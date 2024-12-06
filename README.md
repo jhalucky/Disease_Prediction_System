@@ -16,8 +16,8 @@ Feel free to update or add more datasets for additional disease classifications.
 4. Confusion Matrix & Metrics: Visualizes the performance of the trained model with confusion matrix and various metrics such as accuracy, precision, recall, and F1-score.
 
 # Future Enhancements
-Add more diseases to the prediction model (e.g., Heart Attack, Cancer, etc.).
-Improve the model with advanced algorithms (e.g., Deep Learning or Neural Networks).
-Build a web-based user interface to make the system more accessible to healthcare professionals.
+• Add more diseases to the prediction model (e.g., Heart Attack, Cancer, etc.).
+• Improve the model with advanced algorithms (e.g., Deep Learning or Neural Networks).
+• Build a web-based user interface to make the system more accessible to healthcare professionals.
 
 
